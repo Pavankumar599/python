@@ -6,6 +6,8 @@ This repository contains Python code snippets and examples that cover the core c
 
 ## Topics Covered
 - Python Basics
+    - variables and memory
+    - strings
   
   
 ## How to Use
