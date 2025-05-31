@@ -8,7 +8,7 @@ This repository contains Python code snippets and examples that cover the core c
 - Python Basics
     - variables and memory
     - strings
-  
+  - numpy
   
 ## How to Use
 Clone the repo and explore the folders. Each file contains examples and notes.
